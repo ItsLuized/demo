@@ -1,14 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Disc": [
+    { "id": 1,
+     "title": "Tuna Universidad de La Sabana",
+     "year" : "2003",
+     "image" : "https://scontent-bog1-1.xx.fbcdn.net/v/t31.18172-8/774269_518693288175483_2093152827_o.jpg?_nc_cat=104&_nc_rgb565=1&ccb=1-3&_nc_sid=19026a&_nc_eui2=AeFZrKRtlB7zM07NISb9Fjyt3ScU03Bx5y3dJxTTcHHnLdeLdWQc2dvyaV96Jqmxh_9fbPF9QPGcGaukv8wBn4X8&_nc_ohc=UYsW-hb3AJUAX9IPxL5&_nc_ht=scontent-bog1-1.xx&oh=d15b182f96e75dd86a67d3c95e9a087c&oe=60E1A1F4",
+     "songs": [
+       "Himno",
+       "Nathalie",
+       "Tuna Compostelana,
+       "Los Dos",
+       "Que Tiempo Tan Feliz",
+       "Tani Mi Tani",
+       "La Gloria Eres Tu",
+       "Estudiantina Madrileña",
+       "A Mis Amigos",
+       "Granada",
+       "Noches De Cartagena",
+       "Canta Llano"
+     ]},
+    { "id": 2,
+     "title": "Encuarentunados",
+     "year" : "2020",
+     "image" : "",
+     "songs": [
+       "Si Vas A Calatayud",
+       "Canon",
+       "Mosaico De Cumbias,
+       "Morenita Verde Luna",
+       "Como Quien Pierde Una Estrella",
+       "Neruda En Tu Balcón",
+       "Regalame Esta Noche",
+       "Te Lo Pido Por Favor"
+     ]},
+    ]
 }
